@@ -1,0 +1,54 @@
+* {
+	margin: -2px;
+	padding: 0px;
+	background-color: #c0c0c0;
+}
+
+.button {
+	padding: 2px;
+	background: #72fcd5;
+	/*  margin-left: 45%;*/
+	margin: 1% 0 0 45%;
+}
+
+.title {
+	margin: auto;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.chBoard {
+	margin: auto;
+	padding-top: 25px;
+	text-align: center;
+}
+
+/* First row */
+.firstRowCurrent {
+	background-color: #011892;
+	width: 3.5em;
+	height: 3.5em;
+	display: inline-block;
+	
+}
+.firstRowNext {
+	background-color: #ffd478;
+	width: 3.5em;
+	height: 3.5em;
+	display: inline-block;
+}
+
+
+/*  Second row*/
+.secondRowCurrent {
+	background-color: #ffd478;
+	width: 3.5em;
+	height: 3.5em;
+	display: inline-block;
+}
+.secondRowNext {
+	background-color: #011892;
+	width: 3.5em;
+	height: 3.5em;
+	display: inline-block;
+}
